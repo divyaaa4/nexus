@@ -40,8 +40,8 @@ f
 =====================SETTING.XML=================================
    <server>
 		<id>rajesh</id>
-		<username>rajesh-user</username>
-		<password>rajesh-user123</password>
+		<username></username>
+		<password></password>
 </server>
 
 =======================Setting.xml with Artifactory Setup======================
