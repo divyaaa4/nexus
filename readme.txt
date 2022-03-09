@@ -1,4 +1,4 @@
-fdfsdfdsfsdFor any quesdfsdftions - Please email me at DevOps@RajeshKumar.gxyz/dsadasrdfsedasdasdsadsadasddddddfdsafsdfrtreterteter
+fdfsdfdsfsdFor any quesdfsdftions - Please email me at 
 fdsfsdfds
 fsd
 fsd
@@ -24,15 +24,15 @@ f
 ===============ARTIFACTORY=================
 <distributionManagement>
 	<repository>
-		<id>rajesh</id>
+		<id></id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
+		<url>http://13.127.94.210:8081/artifactory/list//</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>rajesh</id>
+		<id></id>
 		<name>Internal Releases</name>
-		<url>http://13.127.94.210:8081/artifactory/list/rajesh-snapshot/</url>
+		<url>http://13.127.94.210:8081/artifactory/list//</url>
 	</snapshotRepository>
 
 </distributionManagement>
